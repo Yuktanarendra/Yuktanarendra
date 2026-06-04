@@ -1,83 +1,95 @@
-# Hi 👋, I'm Yukta Narendra
+# <div align="center">👋 Hi, I'm Yukta Narendra</div>
 
-### AI/ML Engineer | Generative AI • LLMs • RAG • AI Agents • MLOps
+<div align="center">
 
-I'm a Master's student in Artificial Intelligence passionate about building intelligent systems that solve real-world problems. My work focuses on Machine Learning, Deep Learning, Generative AI, Retrieval-Augmented Generation (RAG), AI Agents, and MLOps. I enjoy transforming complex ideas into scalable AI applications that create meaningful impact.
+### 🚀 AI/ML Engineer | 🤖 Generative AI | 🧠 LLMs | 🔍 RAG | ⚡ AI Agents | 📊 MLOps
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Enthusiast;Building+LLMs%2C+RAG+%26+AI+Agents;Passionate+About+Intelligent+Systems" />
 
-### 🚀 About Me
-
-* 🎓 Pursuing **M.Sc. in Artificial Intelligence** at Brandenburg University of Technology, Germany
-* 🤖 Building AI-powered applications using **LLMs, RAG, AI Agents, and Vector Databases**
-* 🔬 Experienced with **Machine Learning, Deep Learning, NLP, and Computer Vision**
-* ⚙️ Skilled in developing end-to-end AI solutions from model development to deployment
-* 🌱 Currently learning **Transformer Architectures, Advanced LLM Engineering, and CI/CD for AI Applications**
-* 💡 Interested in Generative AI, Agentic Systems, MLOps, and Applied Machine Learning
-* 📫 Reach me at: **[yuktanarendra7@gmail.com](mailto:yuktanarendra7@gmail.com)**
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+## 🌟 About Me
 
-#### Programming Languages
+✨ Master's Student in Artificial Intelligence at BTU Cottbus, Germany
 
-Python • SQL • Java • C/C++ • JavaScript
+🤖 Building intelligent applications using **LLMs, RAG, AI Agents, and MLOps**
 
-#### Machine Learning & Deep Learning
+📚 Currently learning **Transformers, Attention Mechanisms, Advanced LLM Engineering, and CI/CD**
 
-TensorFlow • Keras • Scikit-learn • LSTM • GRU • NLP • Computer Vision
+🚀 Passionate about turning AI research into real-world solutions
 
-#### Generative AI & LLM Engineering
+🎯 Interested in Generative AI, Agentic Systems, Deep Learning, and Applied AI
 
-LLMs • RAG • AI Agents • LangChain • Hugging Face • Prompt Engineering • LangSmith • Groq API
-
-#### Vector Databases & Retrieval
-
-ChromaDB • FAISS • Embeddings • Semantic Search
-
-#### MLOps & AI Engineering
-
-MLflow • DVC • DagsHub • Git • Docker • CI/CD (Learning)
-
-#### Deployment & APIs
-
-FastAPI • Flask • Streamlit • REST APIs
-
-#### Databases
-
-PostgreSQL • MySQL • MongoDB
+📫 Reach me: **[yuktanarendra7@gmail.com](mailto:yuktanarendra7@gmail.com)**
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🔹 Retrieval-Augmented Generation (RAG) Conversational Assistant
+### 👨‍💻 Programming
 
-Built a production-ready RAG chatbot using LangChain, LLaMA 3, ChromaDB, and LangSmith with multi-turn memory and semantic retrieval.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-#### 🔹 Agent-Based Multi-Source Search Engine
+### 🤖 AI & Machine Learning
 
-Developed an autonomous AI agent integrating web search, Wikipedia, and ArXiv tools using LangChain Agents and FAISS.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
-#### 🔹 HamletGPT – Next Word Prediction
+### 🧠 Generative AI
 
-Implemented and compared LSTM and GRU architectures for sequence prediction and deployed an interactive Streamlit application.
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF4088?style=for-the-badge)
 
-#### 🔹 End-to-End MLOps Pipeline
+### ⚙️ MLOps
 
-Created a reproducible ML pipeline using DVC, MLflow, and DagsHub with experiment tracking and model versioning.
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Featured Projects
 
-* LinkedIn: [www.linkedin.com/in/yuktanarendra07](http://www.linkedin.com/in/yuktanarendra07)
-* GitHub: github.com/Yuktanarendra
-* Email: [yuktanarendra7@gmail.com](mailto:yuktanarendra7@gmail.com)
+🔹 **RAG Conversational Assistant**
+LLM-powered chatbot with semantic search, ChromaDB, LangChain, and LangSmith.
+
+🔹 **Agent-Based Search Engine**
+Autonomous AI agent integrating web search, Wikipedia, and ArXiv tools.
+
+🔹 **HamletGPT**
+LSTM and GRU-based next-word prediction system with Streamlit deployment.
+
+🔹 **MLOps Pipeline**
+End-to-end machine learning pipeline with DVC, MLflow, and DagsHub.
 
 ---
 
-### ⚡ Fun Fact
+## 📈 GitHub Analytics
 
-I enjoy building intelligent systems that learn, reason, and create—while constantly exploring the future of AI and emerging technologies.
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuktanarendra&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuktanarendra&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuktanarendra&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yuktanarendra07)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yuktanarendra)
+
+---
+
+### ✨ "Building intelligent systems that learn, reason, and create."
